@@ -1,0 +1,21 @@
+{
+	"name": "portfolio",
+	"version": "1.0.0",
+	"main": "index.js",
+	"devDependencies": {},
+	"scripts": {
+		"dev": "npx concurrently \"cd backend && npm run start:dev\" \"cd frontend && npm run dev\""
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/douglassantiagos/portfolio_projetos.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/douglassantiagos/portfolio_projetos/issues"
+	},
+	"homepage": "https://github.com/douglassantiagos/portfolio_projetos#readme",
+	"description": ""
+}
